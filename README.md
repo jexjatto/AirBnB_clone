@@ -1,3 +1,3 @@
 # AirBnB_clone
-Yo Jex, fill this up.
+It is nice to collaborate with you on this.
 Love. Partner.
